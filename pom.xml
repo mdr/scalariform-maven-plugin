@@ -91,8 +91,8 @@
       <version>2.0.9</version>
     </dependency>
   </dependencies>
-   <inceptionYear>2010</inceptionYear>
-    <url>http://github.com/mdr/scalariform</url>
+   <inceptionYear>2011</inceptionYear>
+    <url>http://github.com/mdr/scalariform-maven-plugin</url>
     <licenses>
       <license>
         <name>MIT License</name>
@@ -101,8 +101,9 @@
       </license>
     </licenses>
     <scm>
-      <url>git@github.com:mdr/scalariform.git</url>
-      <connection>scm:git:git@github.com:mdr/scalariform</connection>
+      <url>git@github.com:mdr/scalariform-maven-plugin.git</url>
+      <connection>scm:git:git@github.com:mdr/scalariform-maven-plugin.git</connection>
+      <developerConnection>scm:git:git@github.com:mdr/scalariform-maven-plugin.git</developerConnection>
     </scm>
     <developers>
       <developer>
@@ -118,5 +119,4 @@
       <url>http://oss.sonatype.org/content/repositories/releases</url>
     </repository>
   </repositories>
-
 </project>
